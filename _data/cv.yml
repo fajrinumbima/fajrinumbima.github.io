@@ -1,7 +1,7 @@
 cv:
 name: Fajrin Hardinandar
 label: Development Economist | Inequality and Political Economy Scholar
-email: "[fhardinandar@gmail.com](mailto:fhardinandar@gmail.com); [811342008@gms.ndhu.edu.tw](mailto:811342008@gms.ndhu.edu.tw)"
+email: [fhardinandar@gmail.com](mailto:fhardinandar@gmail.com)
 location: Hualien, Taiwan
 image: ""
 summary: >
@@ -18,24 +18,32 @@ username: fajrinhardinandar
 username: dfzVQ7MAAAAJ
 
 sections:
-Education:
-- institution: National Dong Hwa University
-location: Hualien, Taiwan
-area: Applied International Trade, Applied Economics, Deglobalization, Asian Context
-studyType: Ph.D. Student
-start_date: 2024
-end_date: Present
-highlights:
-- MOE Elite Ph.D. Students Award
-- NDHU Excellent Scholarship
+Contact Details:
+- name: Email
+details: [fhardinandar@gmail.com](mailto:fhardinandar@gmail.com)
+- name: Institutional Email
+details: [811342008@gms.ndhu.edu.tw](mailto:811342008@gms.ndhu.edu.tw)
 
 ```
+Education:
+  - institution: National Dong Hwa University
+    location: Hualien, Taiwan
+    area: Applied International Trade, Applied Economics, Deglobalization, Asian Context
+    studyType: Ph.D. Student
+    start_date: 2024
+    end_date: Present
+    highlights:
+      - MOE Elite Ph.D. Students Award
+      - NDHU Excellent Scholarship
+
   - institution: Universitas Diponegoro
     location: Indonesia
     area: Regional Economics
     studyType: Master of Economics
     start_date: ""
     end_date: ""
+    highlights:
+      - Master of Economics
 
 Experience:
   - company: Universitas Muhammadiyah Bima
@@ -75,10 +83,10 @@ Publications:
 
 Skills:
   - name: Empirical Methods
-    keywords: "Panel Data, Difference-in-Differences, Event Study, Fixed Effects, IV/2SLS, Shift-Share Bartik, Quantile Regression"
+    keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
 
   - name: Software
-    keywords: "R, Stata, LaTeX, GitHub"
+    keywords: "R, Stata, LaTeX"
 
 Languages:
   - name: Indonesian
