@@ -7,8 +7,7 @@ image: ""
 summary: >
 Fajrin Hardinandar is a doctoral student at National Dong Hwa University,
 Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
-His research focuses on development economics, inequality, political economy,
-international trade, regional development, and empirical policy analysis.
+His research focuses on Inequality Studies, applied international trade, empirical economics, and institutional economics.
 
 social_networks:
 - network: GitHub
@@ -20,14 +19,13 @@ sections:
 Education:
 - institution: National Dong Hwa University
 location: Hualien, Taiwan
-area: Economics
+area: Apllied International Trade, Apllied Economics, Deglobalization, Asian Contex
 studyType: Ph.D. Student
 start_date: ""
 end_date: Present
 highlights:
 - MOE Elite Ph.D. Students Award
 - NDHU Excellent Scholarship
-- Passed Ph.D. candidacy examinations in Microeconomics and Macroeconomics
 
 ```
   - institution: ""
@@ -46,8 +44,8 @@ Experience:
     start_date: ""
     end_date: Present
     highlights:
-      - Lecturer in the Entrepreneurship Study Program
-      - Teaching and research interests include development economics, inequality, regional economics, and political economy
+      - Lecturer in the Faculty of Law and Economics
+      - Reseacher in Institute of Social Economics Finance and Digital, Central Java
 
 Publications:
   - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
@@ -61,10 +59,10 @@ Publications:
 
 Skills:
   - name: Empirical Methods
-    keywords: "Panel Data, Difference-in-Differences, Event Study, Fixed Effects, IV/2SLS, Shift-Share IV, Quantile Regression"
+    keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
 
   - name: Software
-    keywords: "R, LaTeX, GitHub"
+    keywords: "R, Stata, LaTeX"
 
 Languages:
   - name: Indonesian
@@ -75,5 +73,5 @@ Languages:
 
 Interests:
   - name: Research Interests
-    keywords: "Development Economics, Inequality, Poverty, Political Economy, International Trade, Regional Development, Public Policy"
+    keywords: "income inequality, poverty, applied international trade, institutional economics and applied econometrics for Asian political economics"
 ```
