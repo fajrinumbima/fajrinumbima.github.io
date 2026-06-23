@@ -1,6 +1,6 @@
 cv:
   name: Fajrin Hardinandar
-  label: Development Economist | Asian Political Economy Scholars
+  label: "Development Economist | Asian Political Economy Scholar"
   email: fhardinandar@gmail.com
   location: Hualien, Taiwan
   image: ""
@@ -9,7 +9,7 @@ cv:
     Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
     His research focuses on inequality studies, applied international trade,
     institutional economics, and applied policy analysis in the Asian context.
-   
+
   social_networks:
     - network: GitHub
       username: fajrinhardinandar
@@ -18,10 +18,8 @@ cv:
 
   sections:
     Contact Details:
-      - name: Email
-        details: fhardinandar@gmail.com
-      - name: Institutional Email
-        details: 811342008@gms.ndhu.edu.tw
+      - "Email: fhardinandar@gmail.com"
+      - "Institutional email: 811342008@gms.ndhu.edu.tw"
 
     Education:
       - institution: National Dong Hwa University
@@ -51,14 +49,15 @@ cv:
         end_date: Present
         highlights:
           - Lecturer in the Faculty of Law and Economics, Universitas Muhammadiyah Bima
+
       - company: Institute of Social Economics Finance and Digital
         position: Researcher
         location: Central Java, Indonesia
         start_date: ""
         end_date: Present
         highlights:
-          - Conducts policy-oriented research on regional development and -macro-socioeconomic issues
-          
+          - Conducts policy-oriented research on regional development and macro-socioeconomic issues
+
     Publications:
       - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
         authors:
@@ -66,7 +65,7 @@ cv:
           - Yu-Li Wang
         publisher: Asian Development Review
         releaseDate: 2026
-        url: https://doi.org/10.1142/S0116110526500058
+        url: "https://doi.org/10.1142/S0116110526500058"
         summary: Published in Asian Development Review, Volume 43, Issue 2.
 
     Skills:
