@@ -1,13 +1,15 @@
 cv:
 name: Fajrin Hardinandar
 label: Development Economist | Inequality and Political Economy Scholar
-email: [fhardinandar@gmail.com](mailto:fhardinandar@gmail.com)
+email: "[fhardinandar@gmail.com](mailto:fhardinandar@gmail.com); [811342008@gms.ndhu.edu.tw](mailto:811342008@gms.ndhu.edu.tw)"
 location: Hualien, Taiwan
 image: ""
 summary: >
 Fajrin Hardinandar is a doctoral student at National Dong Hwa University,
 Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
-His research focuses on Inequality Studies, applied international trade, empirical economics, and institutional economics.
+His research focuses on inequality studies, applied international trade,
+empirical economics, institutional economics, development economics,
+and applied policy analysis in the Asian context.
 
 social_networks:
 - network: GitHub
@@ -19,33 +21,47 @@ sections:
 Education:
 - institution: National Dong Hwa University
 location: Hualien, Taiwan
-area: Apllied International Trade, Apllied Economics, Deglobalization, Asian Contex
+area: Applied International Trade, Applied Economics, Deglobalization, Asian Context
 studyType: Ph.D. Student
-start_date: ""
+start_date: 2024
 end_date: Present
 highlights:
 - MOE Elite Ph.D. Students Award
 - NDHU Excellent Scholarship
 
 ```
-  - institution: ""
+  - institution: Universitas Diponegoro
     location: Indonesia
-    area: Economics
+    area: Regional Economics
     studyType: Master of Economics
     start_date: ""
     end_date: ""
-    highlights:
-      - Master of Economics
 
 Experience:
   - company: Universitas Muhammadiyah Bima
-    position: Lecturer, Faculty of Economics and Business
+    position: Lecturer
     location: Bima, Indonesia
     start_date: ""
     end_date: Present
     highlights:
       - Lecturer in the Faculty of Law and Economics
-      - Reseacher in Institute of Social Economics Finance and Digital, Central Java
+      - Teaching and research interests include development economics, inequality, regional economics, and political economy
+
+  - company: LPPP Mandiri
+    position: Senior Researcher
+    location: Bima, Indonesia
+    start_date: ""
+    end_date: Present
+    highlights:
+      - Conducts policy-oriented research on regional development and socioeconomic issues
+
+  - company: Institute of Social Economics Finance and Digital
+    position: Public Policy Researcher
+    location: Central Java, Indonesia
+    start_date: ""
+    end_date: Present
+    highlights:
+      - Researcher in social economics, finance, digital transformation, and public policy
 
 Publications:
   - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
@@ -59,10 +75,10 @@ Publications:
 
 Skills:
   - name: Empirical Methods
-    keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
+    keywords: "Panel Data, Difference-in-Differences, Event Study, Fixed Effects, IV/2SLS, Shift-Share Bartik, Quantile Regression"
 
   - name: Software
-    keywords: "R, Stata, LaTeX"
+    keywords: "R, Stata, LaTeX, GitHub"
 
 Languages:
   - name: Indonesian
@@ -73,5 +89,5 @@ Languages:
 
 Interests:
   - name: Research Interests
-    keywords: "income inequality, poverty, applied international trade, institutional economics and applied econometrics for Asian political economics"
+    keywords: "Income inequality, poverty, applied international trade, institutional economics, political economy, regional development, public policy, applied econometrics"
 ```
