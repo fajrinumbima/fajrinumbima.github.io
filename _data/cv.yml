@@ -11,8 +11,10 @@ cv:
 
   sections:
     Professional Summary:
-      - Fajrin Hardinandar is a doctoral student at National Dong Hwa University, Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
-      - His research focuses on inequality studies, applied international trade, institutional economics, and applied policy analysis in the Asian context.
+      - label: Profile
+        details: Fajrin Hardinandar is a doctoral student at National Dong Hwa University, Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
+      - label: Research focus
+        details: His research focuses on inequality studies, applied international trade, institutional economics, and applied policy analysis in the Asian context.
 
     Contact Details:
       - label: Email
@@ -54,19 +56,17 @@ cv:
           - Conducts policy-oriented research on regional development and macro-socioeconomic issues
 
     Skills:
-      - "Empirical Methods: Panel Data, IV/2SLS, Shift-Share Bartik"
-      - "Software: R, Stata, LaTeX"
+      - label: Empirical Methods
+        details: Panel Data, IV/2SLS, Shift-Share Bartik
+      - label: Software
+        details: R, Stata, LaTeX
 
     Languages:
-      - "Indonesian: Native"
-      - "English: Professional working proficiency"
+      - label: Indonesian
+        details: Native
+      - label: English
+        details: Professional working proficiency
 
     Research Interests:
-      - Income inequality
-      - Poverty
-      - Applied international trade
-      - Institutional economics
-      - Political economy
-      - Regional development
-      - Public policy
-      - Applied econometrics
+      - label: Main interests
+        details: Income inequality, poverty, applied international trade, institutional economics, political economy, regional development
